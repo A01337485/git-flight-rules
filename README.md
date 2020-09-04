@@ -1978,6 +1978,9 @@ function Squash-Commits {
 
 # Other Resources
 
+##Videos
+*[A short tutorial for the new ones](https://www.youtube.com/watch?v=HkdAHXoRtos)-Short tutorial for github.
+
 ## Books
 
 * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - A book by Michael Hartl covering Git from basics
